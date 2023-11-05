@@ -1,0 +1,17 @@
+nav {
+  background: #972fff;
+  color: #fff;
+}
+
+ul {
+  width: 50%;
+}
+
+li {
+  list-style: none;
+  width: 50%;
+  height: 2rem;
+  margin-top: 2rem;
+background: linear-gradient(#972fff 45%, #00b0ff 95%);
+color: #fff;
+}
