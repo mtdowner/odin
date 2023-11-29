@@ -11,72 +11,72 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 ### Introduction
 
-How This Course Will Work
-Introduction to Web Development
-Motivation and Mindset
-Asking For Help
-Join the Odin Community
+- [x] How This Course Will Work
+- [x] Introduction to Web Development
+- [x] Motivation and Mindset
+- [x] Asking For Help
+- [x] Join the Odin Community
 
 ### Prerequisites
 
-Computer Basics
-How Does the Web Work?
-Installation Overview
-Installations
-Text Editors
-Command Line Basics
-Setting up Git
+- [x] Computer Basics
+- [x] How Does the Web Work?
+- [x] Installation Overview
+- [x] Installations
+- [x] Text Editors
+- [x] Command Line Basics
+- [x] Setting up Git
 
 ### Git Basics
 
-Introduction to Git
-Git Basics
+- [x] Introduction to Git
+- [x] Git Basics
 
 ### HTML Foundations
 
-Introduction to HTML and CSS
-Elements and Tags
-HTML Boilerplate
-Working with Text
-Lists
-Links and Images
-Commit Messages
-Project: Recipes
+- [x] Introduction to HTML and CSS
+- [x] Elements and Tags
+- [x] HTML Boilerplate
+- [x] Working with Text
+- [x] Lists
+- [x] Links and Images
+- [x] Commit Messages
+- [x] Project: Recipes
 
 ### CSS Foundations
 
-Intro to CSS
-The Cascade
-Inspecting HTML and CSS
-The Box Model
-Block and Inline
+- [x] Intro to CSS
+- [x] The Cascade
+- [x] Inspecting HTML and CSS
+- [x] The Box Model
+- [x] Block and Inline
 
 ### Flexbox
 
-Introduction to Flexbox
-Growing and Shrinking
-Axes
-Alignment
-Project: Landing Page
+- [ ] Introduction to Flexbox
+- [ ] Growing and Shrinking
+- [ ] Axes
+- [ ] Alignment
+- [ ] Project: Landing Page
 
 ### JavaScript Basics
 
-Fundamentals Part 1
-Fundamentals Part 2
-JavaScript Developer Tools
-Fundamentals Part 3
-Problem Solving
-Understanding Errors
-Project: Rock Paper Scissors
-Clean Code
-Installing Node.js
-Fundamentals Part 4
-DOM Manipulation and Events
-Revisiting Rock Paper Scissors
-Project: Etch-a-Sketch
-Fundamentals Part 5
-Project: Calculator
+- [ ] Fundamentals Part 1
+- [ ] Fundamentals Part 2
+- [ ] JavaScript Developer Tools
+- [ ] Fundamentals Part 3
+- [ ] Problem Solving
+- [ ] Understanding Errors
+- [ ] Project: Rock Paper Scissors
+- [ ] Clean Code
+- [ ] Installing Node.js
+- [ ] Fundamentals Part 4
+- [ ] DOM Manipulation and Events
+- [ ] Revisiting Rock Paper Scissors
+- [ ] Project: Etch-a-Sketch
+- [ ] Fundamentals Part 5
+- [ ] Project: Calculator
 
 ### Conclusion
 
-Choose Your Path Forward
+- [ ] Choose Your Path Forward
