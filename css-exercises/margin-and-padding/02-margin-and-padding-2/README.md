@@ -11,7 +11,7 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - [x] There is 8px between the edge of the card and its content (the blue sections).
 - [x] There is an 8px gap between each of the blue sections inside the card.
 - [x] The title of the card uses a 16px font.
-- There are 8px between the title text and the edge of the title section.
+- [x] There are 8px between the title text and the edge of the title section.
 - [x] The content section has 16px space on the top and bottom, and 8px on either side.
 - [x] Everything inside the `.button-container` section is centered, and there is 8px padding.
 - [x] The Big Button is centered on its own line.
