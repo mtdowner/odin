@@ -4,7 +4,7 @@ body {
 }
 
 .card {
-  width: 400px;
+  max-width: 400px;
   background: #fff;
   margin: 16px auto;
   padding: 8px;
@@ -31,6 +31,7 @@ body {
 }
 
 button {
+  color: #000;
   background: white;
   border: 1px solid #eee;
   display: block;
