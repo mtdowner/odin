@@ -34,12 +34,12 @@ li {
   text-align: right;
   margin-top: 3rem;
   padding: 1rem;
-  background: linear-gradient(#972fff 45%, #00b0ff 95%);
 }
 
 a {
+  background: linear-gradient(#972fff 45%, #00b0ff 95%);
   font-family: hack, monospace;
-  font-size: 4rem;
+  font-size: 2rem;
   font-weight: 700;
   color: #000;
   text-decoration: none;

@@ -4,7 +4,7 @@ This one is simple, but it's something that you'll want to do ALL THE TIME.  Mig
 All you need to do is center the red div inside the blue container.
 
 ## Desired Outcome
-![outcome](./desired-outcome.png)
+![outcome](/css-exercises/flex/flex/01-flex-center/desired-outcome.png)
 
 ### Self Check
 - Is the red div centered?
