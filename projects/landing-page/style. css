@@ -1,0 +1,39 @@
+.hero, footer {
+  background-color: #1f2937;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h1, h2 {
+  font-weight: 900;
+}
+header p, a {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+h1, nav p, button, .call-to-action, footer p {
+  color: #f9faf8;
+}
+
+nav p {
+  font-size: 24px;
+}
+
+button, .call-to-action {
+  background-color: #3882f6;
+}
+
+h2, blockquote {
+  color: #1f2937;
+  font-size: 36px;
+}
+blockquote {
+  font-style: italic;
+  font-weight: lighter;
+}
+section:nth-of-type(2) {
+  background-color: #e5e7eb;
+}
