@@ -1,4 +1,31 @@
-:root {
+
+h1, h2 {
+  color: transparent;
+  background-image: linear-gradient(#972fff 45%, #00b0ff 95%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+nav {
+  background: #972fff;
+}
+
+li {
+  list-style: none;
+  width: 50%;
+  padding: 1rem 2rem;
+  margin-top: 2rem;
+background: linear-gradient(#972fff 45%, #00b0ff 95%);
+display: flex;
+justify-content: center;
+}
+
+a {
+color: #fff;
+text-decoration: none;
+font-size: 2rem;
+}
+
+/* :root {
   --indigo: #7300e6;
   --bliolet: #8520e9;
   --plink: #b319ff;
@@ -61,3 +88,4 @@ footer p {
   text-align: center;
   text-shadow: -4px -4px #00afff, 4px 4px #a0f;
 }
+*/
