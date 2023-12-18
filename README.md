@@ -1,7 +1,8 @@
 # The Odin Project
+
 ## [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-Welcome to my repo! You'll find my project files and links that takes you to live examples.
+Welcome to my repo! You'll find my project files and links that take you to live examples.
 
 ---
 
@@ -53,10 +54,10 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 ### Flexbox
 
-- [ ] Introduction to Flexbox
-- [ ] Growing and Shrinking
-- [ ] Axes
-- [ ] Alignment
+- [x] Introduction to Flexbox
+- [x] Growing and Shrinking
+- [x] Axes
+- [x] Alignment
 - [ ] Project: Landing Page
 
 ### JavaScript Basics
