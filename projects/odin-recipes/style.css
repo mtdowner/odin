@@ -3,29 +3,35 @@
   --bliolet: #8520e9;
   --plink: #b319ff;
 }
+
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   font-family: hack, monospace;
 }
+
 html {
   font-size: 16px;
 }
+
 body {
   text-transform: uppercase;
   height: 100vh;
 }
+
 h1 {
-  visibility: hidden;
+  text-shadow: -3px -3px 2px #00afff, 3px 3px 2px #a0f;
 }
+
 li {
   list-style: none;
-  font-size: 4.5rem;
+  font-size: 1.5rem;
   text-align: right;
-  margin-top: 3rem;
+  margin-top: 1rem;
   padding: 1rem;
 }
+
 a {
   font-family: hack, monospace;
   font-weight: 700;
@@ -35,20 +41,29 @@ a {
     4px 4px 4px #a0f, -1px -1px 1px #000, -2px -2px 2px #00afff,
     -3px -3px 3px #000, -4px -4px 4px #00afff;
 }
-a:hover,
-a:focus {
-  text-shadow: -3px -3px 2px #00afff, 3px 3px 2px #a0f;
-}
+
 img {
   width: 50%;
   max-width: 500px;
   height: auto;
 }
-footer p {
+
+main p {
+  color: transparent;
+  background-image: linear-gradient(#972fff 45%, #00b0ff 95%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+footer p, li, a {
   color: transparent;
   font-size: 0.5rem;
   background: linear-gradient(50deg, #00afff, blueviolet 65%);
   padding: 0.5rem;
   text-align: center;
   text-shadow: -4px -4px #00afff, 4px 4px #a0f;
+}
+
+a:hover {
+  text-shadow: 4px 4px #00afff, 4px 4px #a0f;
 }
