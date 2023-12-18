@@ -1,0 +1,34 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+h1,
+h2 {
+  color: transparent;
+  background-image: linear-gradient(#972fff 45%, #00b0ff 95%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+nav {
+  background: #972fff;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+  background: linear-gradient(#972fff 45%, #00b0ff 95%);
+  text-align: center;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
