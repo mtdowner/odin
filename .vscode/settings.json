@@ -1,4 +1,5 @@
 {
     "livePreview.defaultPreviewPath": "/workspace/odin/index.html",
-    "base9.palette": "ffffff-972fff-00beef-008fff-00afff-aa00ff-9300ff-8a2be2-00b0ff"
+    "base9.palette": "ffffff-972fff-00beef-008fff-00afff-aa00ff-9300ff-8a2be2-00b0ff",
+    "liveServer.settings.port": 5501
 }
