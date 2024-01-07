@@ -1,0 +1,24 @@
+img {
+  width: 150px;
+  border-radius: 50px;
+}
+h2 {
+  font-size: 18px;
+}
+body {
+  background: linear-gradient(#972fff, #8a2be2, #008ffa, #00cbff);
+  background-repeat: no-repeat;
+  font-family: "Trebuchet MS";
+  color: white;
+  height: 100vh;
+}
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+}
