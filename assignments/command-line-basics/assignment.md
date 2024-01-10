@@ -1,10 +1,8 @@
 # Assignment
 
-Many of these resources assume you’re using a Mac or Linux environment. If you did our previous installation lesson, you should already have Linux installed in dual-boot or a virtual machine. Or, you might be using macOS. If you don’t have macOS, or any version of Linux installed, please return to the operating system installation guide.
-
 1. Visit The Unix Shell course designed by the Software Carpentry Foundation. There you will find a full complement of lessons on using the CLI, but for now just focus on completing the following lessons:
 
-- Download files
+- Download files - only follow the instructions in this section, you don’t need to install any software and can move onto the next bullet point in this list.
 - Introducing the Shell
 - Navigating Files and Directories
 - Working With Files and Directories
