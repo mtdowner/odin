@@ -80,4 +80,4 @@ This is where it all begins! A hands-on introduction to all of the essential too
 
 ### Conclusion
 
-- [ ] Choose Your Path Forward
+- [x] Choose Your Path Forward
