@@ -4,22 +4,19 @@
 
 h1 {
   font-size: 48px;
-}
-
-h1, h2 {
+  color: #f9faf8;
   font-weight: 900;
 }
-header p, a {
+
+header p:nth-child(2),
+a {
   color: #e5e7eb;
   font-size: 18px;
 }
 
-h1, nav p, button, .call-to-action, footer p {
-  color: #f9faf8;
-}
-
-nav p {
+header p:first-child {
   font-size: 24px;
+  color: #f9faf8;
 }
 
 button, .call-to-action {
