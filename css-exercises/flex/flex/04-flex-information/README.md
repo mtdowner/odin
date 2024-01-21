@@ -6,7 +6,7 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 
 ## Desired outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](/css-exercises/flex/flex/04-flex-information/desired-outcome.png)
 
 ### Self Check
 
