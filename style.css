@@ -1,3 +1,8 @@
+:root {
+  --indigo: #7300e6;
+  --bliolet: #8520e9;
+  --plink: #b319ff;
+}
 * {
   box-sizing: border-box;
   padding: 0;
@@ -45,12 +50,7 @@ a {
   font-size: 2rem;
 }
 
-/* :root {
-  --indigo: #7300e6;
-  --bliolet: #8520e9;
-  --plink: #b319ff;
-}
-
+/* 
 body {
   text-transform: uppercase;
 }
