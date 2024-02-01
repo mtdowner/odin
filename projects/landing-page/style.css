@@ -10,15 +10,19 @@ h1 {
 
 header p:nth-child(2),
 a {
+  text-decoration: none;
+
   color: #e5e7eb;
   font-size: 18px;
 }
 
-header p:first-child {
+.hero p {
   font-size: 24px;
   color: #f9faf8;
 }
-
+.img {
+  border: 2px solid #3882f6;
+}
 button, .call-to-action {
   background-color: #3882f6;
 }
