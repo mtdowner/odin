@@ -2,7 +2,16 @@
 
 ## [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-Welcome to my repo! You'll find my project files and links that take you to live examples.
+The Odin Project
+
+## [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+oundations/courses/foundations)
+
+Welcome to my repo, a repo that showcases a mess progressing painfully slow into a not-so-much mess.
+
+Come, share some laughs and tears with me by checking out my assignments a
+You'll find my project files as well as live versions of each assignment in the order of the curriculum.
 
 ---
 
