@@ -1,7 +1,11 @@
 :root {
   --indigo: #7300e6;
-  --bliolet: #8520e9;
-  --plink: #b319ff;
+  --violet: #8520e9;
+  --purple: #972fff;
+  --brightpurple: #a0f;
+  --pink: #f0f;
+  --violetred: #f09;
+  --blue: #00cbff;
 }
 * {
   box-sizing: border-box;
@@ -17,44 +21,41 @@ html {
 body {
   min-height: 100vh;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 h1 {
- font-size: 2rem;
- color: transparent;
- background: linear-gradient(20deg, #972fff 45%, #00b0ff 95%);
- background-clip: text;
+ font-size: 2.25rem;
 }
 
-h1, h2, h3, li {
-  margin-top: 1rem;
-}
 
 h2 {
-  color: #972fff;
-  font-size: 1.75rem;
-  text-decoration-line: underline;
+  font-size: 2rem;
 }
 
+
 h3 {
- color: #00b0ff;
- font-size: 1.5rem;
+  color: var(--blue);
+  font-size: 1.75rem;
+  margin: 1rem auto;
 }
+
+h1, h2 {
+  background: linear-gradient(15deg, var(--purple) 50%, var(--blue));
+  background-clip: text;
+  color: transparent;
+}
+
 
 li {
   list-style: none;
-  background: linear-gradient(#972fff 45%, #00b0ff 95%);
+  background: linear-gradient(5deg, var(--purple) 1%, var(--blue) 95%);
   padding: .5rem;
+  font-size: 1.5rem;
+  margin: 2rem 0;
 }
-ul {
-  width: 100%;
-}
+
 a {
-  width: 100%;
   color: #fff;
   text-decoration: none;
-  font-size: 1.25rem;
 }
+
