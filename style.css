@@ -1,13 +1,12 @@
 :root {
   --indigo: #7300e6;
   --violet: #8520e9;
-  --purple: #972fff;
-  --brightpurple: #a0f;
+  --purple: #a0f;
   --pink: #f0f;
   --violetred: #f09;
-  --blue: #00cbff;
+  --blue: #0bf;
 }
-* {
+*, *:after, *:before {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -25,13 +24,14 @@ body {
 
 h1 {
  font-size: 2.25rem;
+ background: linear-gradient(3deg, var(--purple) 50%, var(--blue));
 }
-
 
 h2 {
   font-size: 2rem;
-}
+  background: linear-gradient(15deg, var(--pink), var(--blue));
 
+}
 
 h3 {
   color: var(--blue);
@@ -40,15 +40,13 @@ h3 {
 }
 
 h1, h2 {
-  background: linear-gradient(15deg, var(--purple) 50%, var(--blue));
   background-clip: text;
   color: transparent;
 }
 
-
 li {
   list-style: none;
-  background: linear-gradient(5deg, var(--purple) 1%, var(--blue) 95%);
+  background: linear-gradient(9deg, var(--purple), var(--blue));
   padding: .5rem;
   font-size: 1.5rem;
   margin: 2rem 0;
