@@ -4,7 +4,7 @@
 
 Welcome to my repo, a repo that showcases a mess progressing painfully slow into a not-so-much mess.
 
-Come, share some laughs and tears with me as I attempt The Odin Project. All of my project files are in this repo as well as live examples 8n chronological order. View everything [here](https://mtdowner.github.io/odin/).
+Come, share some laughs and tears with me as I attempt The Odin Project. All of my project files are in this repo as well as live examples in chronological order. View everything [here](https://mtdowner.github.io/odin/).
 
 All assignment instructions are included with each exercise and project under README.md
 
